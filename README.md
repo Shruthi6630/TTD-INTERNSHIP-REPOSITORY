@@ -14,3 +14,8 @@ Date: 09.05.2025 DAY4
 Downloading the imagerial dataset for training algorithm for detection.
 
 Topic: Vehicles 🔗 [DAY4 vehicle_recognition_image_dataset](https://drive.google.com/drive/folders/1qe133ZHgCUvaaR3KYp1fWyb8ym2ihPaA?usp=sharing)
+
+Extended Topic of Study: **Convolutional Neural Networks**
+
+Date: 12.05.2025 DAY5
+Revisiting the basics to Python (basic data types, dictionaries, classes & objects, OOPS concept)
