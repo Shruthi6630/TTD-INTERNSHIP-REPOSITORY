@@ -19,3 +19,6 @@ Extended Topic of Study: **Convolutional Neural Networks**
 
 Date: 12.05.2025 DAY5
 Revisiting the basics to Python (basic data types, dictionaries, classes & objects, OOPS concept)
+
+Date: 13.05.2025 DAY7
+Brushing up on NumPy, Pandas and an intro to DV. [Some useful NumPy functions](https://github.com/Shruthi6630/TTD-INTERNSHIP-REPOSITORY/blob/937328cfa48e7e137089f4fbba40a92dc103b610/DAY6%20NumPy%20Functions.pdf)
